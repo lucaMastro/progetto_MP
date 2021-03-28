@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">progettoMP</string>
+    <string name="first_TV">Inserisci un numero:</string>
+    <string name="find_all_n_button">Trova il numero di primi minori di n</string>
+    <string name="nth_prime_button">Trova l\'n-esimo numero primo</string>
+    <string name="is_prime_button">Is a Prime number?</string>
+    <string name="factorize_n_button">fattorizza N in primi</string>
+    <string name="eulero_func_button">calcola la funzione di eulero f(n)</string>
+    <string name="nth_twin_couple_button">Trova l\'n-esima coppia di primi gemelli</string>
+</resources>
